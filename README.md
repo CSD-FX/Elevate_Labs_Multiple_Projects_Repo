@@ -37,9 +37,10 @@ https://github.com/CSD-FX/ArgoCD-K3S-GitOPS.git
 The ArgoCD-K3S-GitOPS project is a practical implementation of the GitOps methodology, demonstrating a modern, declarative, and highly automated approach to Continuous Delivery (CD) on Kubernetes. This system is built using Argo CD as the powerful, pull-based CD controller and K3s, a lightweight, certified Kubernetes distribution, as the underlying cluster runtime. This strategic combination results in a platform that is both powerful for production-grade deployments and resource-efficient for small-scale or edge environments.
 
 ----
-Thank you again for the insightful opportunity to learn about the innovative work at Elevate Labs. The conversation solidified my deep interest in joining your team in a DevOps or Cloud Engineering capacity. I am writing to formally request consideration for a Junior DevOps Engineer position or a DevOps Internship. If neither is a fit, I would be grateful for a referral within your network. My hands-on experience with tools like Istio, Argo CD, and K3s means I'm prepared to immediately contribute value. I am ready to apply my dedicated work ethic and technical foundation to any difficult task thrown my way, and I look forward to contributing to your success.
+Thank you again for the insightful opportunity to learn about the innovative work at Elevate Labs. The conversation solidified my deep interest in joining your team in a DevOps or Cloud Engineering capacity. I am writing to formally request consideration for a Junior DevOps Engineer position or a DevOps Internship. If neither is a fit, I would be grateful for a referral within your network. My hands-on experience with tools like Istio, Argo CD, and K8s means I'm prepared to immediately contribute value. I am ready to apply my dedicated work ethic and technical foundation to any difficult task thrown my way, and I look forward to contributing to your success.
 LinkedIn : www.linkedin.com/in/chandrashekar-d-520a0b375/
 🫡Thankyou 
+
 
 
 
